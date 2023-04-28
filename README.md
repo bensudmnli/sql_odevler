@@ -1,4 +1,4 @@
-# sql_odevler
+# sql_odev1
 
 Aşağıdaki sorgu senaryolarını örnek veri tabanı üzerinden gerçekleştiriniz.
 
