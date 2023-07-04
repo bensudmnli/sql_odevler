@@ -12,6 +12,7 @@ Aşağıdaki sorgu senaryolarını örnek veri tabanı üzerinden gerçekleştir
 
 5. Film tablosundaki uzunluğu(length) 50 ten büyük OLMAYIP aynı zamanda rental_rate değeri 2.99 veya 4.99 OLMAYAN verileri sıralayınız.
 
+##cevaplar
 1.
 SELECT title,description FROM film
 
